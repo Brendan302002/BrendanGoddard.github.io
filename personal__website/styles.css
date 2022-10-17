@@ -96,3 +96,24 @@ a:active {
     text-decoration: none;
     font-size: 17px;
 }
+
+.under__construction {
+    font-family: 'Roboto Mono', monospace;
+    position: absolute;
+    height: 30vh; 
+    margin: 0;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.countdown {
+    font-family: 'Roboto Mono', monospace;
+    position: absolute;
+    height: 10vh; 
+    margin: 0;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+}
