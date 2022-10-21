@@ -9,9 +9,9 @@ button {
     border: none;
     cursor: pointer;
     height: 50px;
-    width: 175px;
+    width: 50px;
     transition: all;
-    transition-duration: 250ms;
+    transition-duration: 400ms;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -19,9 +19,9 @@ button {
 }
 
 button svg {
-    margin-right: 8px;
-    width: 18px;
-    height: 18px;
+    align-items: center;
+    width: 20px;
+    height: 20px;
 }
 
 body {
